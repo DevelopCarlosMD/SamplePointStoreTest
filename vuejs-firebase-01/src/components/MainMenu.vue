@@ -122,7 +122,7 @@ export default {
   color: white;
   font-weight: bold;
   border: none;
-  border-radius: 20px;
+  border-radius: 24px;
   outline: 0;
   cursor: pointer;
 }
